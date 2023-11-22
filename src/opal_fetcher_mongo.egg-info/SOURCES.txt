@@ -1,0 +1,10 @@
+LICENCE
+pyproject.toml
+setup.py
+src/opal_fetcher_mongo/__init__.py
+src/opal_fetcher_mongo/provider.py
+src/opal_fetcher_mongo.egg-info/PKG-INFO
+src/opal_fetcher_mongo.egg-info/SOURCES.txt
+src/opal_fetcher_mongo.egg-info/dependency_links.txt
+src/opal_fetcher_mongo.egg-info/requires.txt
+src/opal_fetcher_mongo.egg-info/top_level.txt

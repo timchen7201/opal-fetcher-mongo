@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: opal-fetcher-mongo
+Version: 0.0.1
+Summary: An OPAL fetch provider to bring data from Mongo DB.
+Author-email: Tim Chen <guanting.gt0127@gmail.com>
+License: Apache-2.0
+Keywords: Open Policy Agent,OPA,OPAL,Open Policy Administration Layer,Mongo,Permit.io
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENCE
