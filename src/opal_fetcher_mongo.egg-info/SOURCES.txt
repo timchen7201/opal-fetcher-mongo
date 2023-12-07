@@ -1,4 +1,7 @@
+Dockerfile
 LICENCE
+Makefile
+__init__.py
 pyproject.toml
 setup.py
 src/opal_fetcher_mongo/__init__.py

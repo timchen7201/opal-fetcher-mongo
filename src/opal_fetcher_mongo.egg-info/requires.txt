@@ -3,3 +3,4 @@ asyncpg
 pydantic
 tenacity
 click
+motor==3.3.2

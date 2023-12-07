@@ -2,9 +2,9 @@ from pydantic import BaseModel
 from typing import Dict, Any, List
 
 from motor.motor_asyncio import AsyncIOMotorClient
-from ..events import FetchEvent
-from ..fetch_provider import BaseFetchProvider
-from ..logger import get_logger
+from opal_common.fetcher.events import FetchEvent
+from opal_common.fetcher.fetch_provider import BaseFetchProvider
+from opal_common.logger import get_logger
 
 logger = get_logger("mongo_fetch_provider")
 
